@@ -33,7 +33,7 @@ h4{color:#444}
 
 #hamburguinho{float: right;line-height: 60px;cursor: pointer;font-size:35px;margin-right: 5%}
 
-#btn-fechar{position: absolute;right: 0;width:35px;background:linear-gradient(#f4f4f4,#fff);color:#14145A;text-align: center;top:0;cursor: pointer;padding:10px 0px;margin-top:2px }
+#btn-fechar{position: absolute;right: 0;width:35px;background:#6EC1E4;color:#fff;text-align: center;top:0;cursor: pointer;padding:10px 0px;margin-top:2px }
 
 #container{width:100%;}
 
